@@ -1,4 +1,4 @@
-//% color=#0fbc11 icon="\uf1eb"
+//% color=#000000 icon="\uf1eb"
 namespace SP_WiFi {
     enum Cmd {
         None,
