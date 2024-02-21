@@ -3,6 +3,11 @@ namespace SP_WiFi {
     enum Cmd {
         None,
         ConnectWifi,
+        ConnectThingSpeak,
+        ConnectKidsIot,
+        InitKidsIot,
+        UploadKidsIot,
+        DisconnectKidsIot,
         ConnectMqtt,
     }
 
