@@ -144,7 +144,7 @@ namespace SP_WiFi {
     /**
      * Initialize ESP8266 module
      */
-    //% block="set ESP8266|RX %tx|TX %rx|Baud rate %baudrate"
+    //% block="Connect ESP8266|RX %tx|TX %rx|Baud rate %baudrate"
     //% tx.defl=SerialPin.P8
     //% rx.defl=SerialPin.P12
     //% ssid.defl=your_ssid
